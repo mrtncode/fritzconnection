@@ -1,4 +1,7 @@
 
+# Thanks to nejewoge
+I have merged the pending PR https://github.com/kbr/fritzconnection/pull/140
+
 # fritzconnection
 
 ![](https://img.shields.io/pypi/pyversions/fritzconnection.svg)
